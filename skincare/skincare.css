@@ -246,3 +246,102 @@
 }
 
 /* Media query */
+/* <style> */
+   /* -------------input---------- */
+   .searchinput{
+    height:20px;
+    width:20px;
+   padding-left:10px;
+   background-image: url("http://assets.stickpng.com/thumbs/585e4ad1cb11b227491c3391.png");
+
+}
+
+    .content1>ul{
+    list-style-type: none;
+    text-align: center;
+    text-decoration: none;
+    }
+    .content1>ul>li{
+    display: inline-block;
+    padding: 0 15px;
+    }
+    .content1>ul>li>a{
+    text-decoration: none;
+    font-family: sans-serif;
+    word-spacing: 10px;
+    }
+    .style8{
+    display: flex;
+    height: 80px;
+    width:70%;
+    padding-left: 280px;
+    }
+    .style8>div :first-child{
+    margin-top:20px;
+    height: 45px;
+    margin-left: 200px;
+    }
+
+    #input18{
+     border-radius: 15px; 
+    height: 30px;
+    width:220px;
+    border: 1px solid white;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    
+    }
+  
+    .image8{
+    height: 160px;
+    width: 140px;
+    }
+    #navimg8{
+     position:absolute;
+    display: grid;
+    grid-template-columns: repeat(6,200px);
+    grid-template-rows: 200px;
+    width:60%;
+    margin-left:120px;
+    text-align: center;
+ 
+   
+    }
+    .displaynav{
+    margin-left: 10px;
+    justify-content:space-between;
+    font-size: 14px;
+    font-family:sans-serif;
+    }
+    .displaynavmain{
+    /* border-radius: 15px; */
+    height: 300px;
+    width:95%;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+    color: #9b9b9b;
+    background-color: white;
+    }
+  #about{
+  text-align:justify;
+  padding-left: 200px;
+  margin-left:900px;
+  font-family: sans-serif;
+  }
+    .divabt{
+    width: 180px;
+    height: 150px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+    margin-top: 0;
+    padding-left: 50px;
+    padding-top: 50px;
+    line-height: 10px;
+    /* border-radius: 15px; */
+    font-size:15px;
+    color: #9b9b9b;
+    background-color: white;
+    }
+    #navscroll{
+        position:relative;
+    }
+
+ 

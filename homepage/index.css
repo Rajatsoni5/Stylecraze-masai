@@ -129,6 +129,10 @@
  color: #333333;
  margin-top: 100px;
  }
+ #sam>div:hover img{
+    opacity: .7;
+    
+ }
 
 /* <-----------------------------------------------facebook,instagram-------------------------------------> */
  #facebook{
@@ -158,7 +162,7 @@
  #fo{
  text-align: center;
  padding: 14PX;
- font-size: 25px;
+ font-size: 22px;
  color:rgb(59,89,153);
  background-color:rgb(235,235,235);
  }
@@ -182,7 +186,7 @@
  #pf{
  text-align: center;
  padding: 14PX;
- font-size: 25px;
+ font-size: 22px;
  color:rgb(189,15,28);
  background-color:rgb(235,235,235);
  }
@@ -206,7 +210,7 @@
  #if{
  text-align: center;
  padding: 14PX;
- font-size: 25px;
+ font-size: 20px;
  color:rgb(213,55,145);
  background-color:rgb(235,235,235);
  }
